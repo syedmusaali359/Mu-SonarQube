@@ -1,21 +1,3 @@
-<div align="center">
-  <a href="https://hoppscotch.io">
-    <img
-      src="https://avatars.githubusercontent.com/u/56705483"
-      alt="Hoppscotch"
-      height="64"
-    />
-  </a>
-  <h3>
-    <b>
-      Hoppscotch
-    </b>
-  </h3>
-  <b>
-    Open Source API Development Ecosystem
-  </b>
-</div>
-
 Tutorial url: https://youtu.be/PgHIVt_S6PE 
 
 SonarQube docker build. (See docker-compose.yml)
